@@ -90,7 +90,7 @@ for key in dict.keys():
         optimo = key
 print("Optimo: " + str(optimo))
 
-plt.plot(dict.keys(), dict.values(), ".")
+plt.plot(dict.keys(), dict.values())
 plt.ylabel("Result")
 plt.show()
 
