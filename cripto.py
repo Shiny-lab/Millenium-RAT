@@ -15,9 +15,9 @@ def codificar_caracter(letra, alfabeto, k):
         return alfabeto[index + k - len(alfabeto)]
     
 def normalizar(mensaje):
-    mensaje = mensaje.lower()
+    mensaje1 = mensaje.lower()
     mensaje_new = ""
-    for i in mensaje:
+    for i in mensaje1:
         if i == "á":
             mensaje_new += "a"
         elif i == "é":
