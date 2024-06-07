@@ -1,6 +1,5 @@
 # Millenium RAT 2.9☠️
 Telegram-controlled Windows RAT, no dedicated server or port forwarding is required for usage. Contact me by Telegram to buy: <em>**@shinyenigma**</em> (Accepting USDT, BTC, TRX, XMR, ETH, LTC and more). You can see all the features below. The price for a lifetime license in 2024 is 30$
-<br><em>Also check DotStealer: https://github.com/YellowKnife802/DotStealer </em>
 ## Features
 <br />⭐️ Common:
 <br />🔹Easy-to-use compact builder
