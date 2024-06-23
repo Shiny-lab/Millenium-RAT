@@ -13,7 +13,7 @@ Telegram-controlled Windows RAT, no dedicated server or port forwarding is requi
 <br />🔹Separated cookie grabbing
 <br />🔹Self-installing/No self-installing
 <br />
-<br />⭐️ Options : 
+<br />⭐️ Options :
 <br />🔶Keylogger
 <br />🔶Pronouncing text to user
 <br />🔶Messagebox invoking
