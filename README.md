@@ -8,7 +8,7 @@ Telegram-controlled Windows RAT, no dedicated server or port forwarding is requi
 <br />🔹Anti doble-launch
 <br />🔹Anti VM
 <br />🔹Anti-debug
-<br />🔹Auto-Stealer on first launch
+<br />🔹Auto-Stealer on first launch 
 <br />🔹Single .net exe without dependences
 <br />🔹Separated cookie grabbing
 <br />🔹Self-installing/No self-installing
