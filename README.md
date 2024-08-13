@@ -1,7 +1,8 @@
-# Millenium RAT 2.9☠️ 
-Telegram-controlled Windows RAT, no dedicated server or port forwarding is required for usage. Contact me by Telegram to buy: <em>**@shinyenigma**</em> (Accepting USDT, BTC, TRX, XMR, ETH, LTC and more). You can see all the features below. The price for a lifetime license in 2024 is 30$
+# Millenium RAT 2.10☠️ 
+A telegram-controlled Windows RAT (remote access tool), no dedicated server or port forwarding is required for usage. Contact me by Telegram to buy: <em>**@shinyenigma**</em> (Accepting USDT, BTC, TRX, XMR, ETH, LTC and more). All the features of this tool are described below, if you still have any questions feel free to contact me:)
 ## Features
 <br />⭐️ Common:
+<br />🔹NEW: two types of powerfull data encryption
 <br />🔹Easy-to-use compact builder
 <br />🔹Client works on Windows 7 and higher (32 and 64 bit)
 <br />🔹Auto StartUp
@@ -14,6 +15,7 @@ Telegram-controlled Windows RAT, no dedicated server or port forwarding is requi
 <br />🔹Self-installing/No self-installing
 <br />
 <br />⭐️ Options :
+<br />🔶NEW: "/all" identifier is avaliable now, can be use to send the command to all the connected victims
 <br />🔶Keylogger
 <br />🔶Pronouncing text to user
 <br />🔶Messagebox invoking
@@ -41,18 +43,25 @@ Telegram-controlled Windows RAT, no dedicated server or port forwarding is requi
 
 ## Screenshots
 ### Builder
-![3](https://github.com/Shiny-lab/Millenium-RAT/assets/162065394/59c4f84f-d47b-4aca-8973-9f0d2ed810dd)
+![image](https://github.com/user-attachments/assets/a0e9c785-4e93-4b4d-81f8-597955b9a46f)
 
 ### Command list
 ![1](https://github.com/Shiny-lab/Millenium-RAT/assets/162065394/1afac33e-dc5f-4546-985d-0afc72a05411)
 ![2](https://github.com/Shiny-lab/Millenium-RAT/assets/162065394/f2002501-87ac-4724-8e6b-3d49cddb4eb2)
 
 ### Other ScreenShots
+
+![image](https://github.com/user-attachments/assets/5ce51663-550c-45bd-8f58-55e6e5ed8f4e)
+
+![image](https://github.com/user-attachments/assets/2012c8a0-df7b-4905-9fe3-f515e8590287)
+
 ![4](https://github.com/Shiny-lab/Millenium-RAT/assets/162065394/10a6af52-d148-4ab2-8040-a5164fe856a9)
 
 ![5](https://github.com/Shiny-lab/Millenium-RAT/assets/162065394/a559fe41-8afa-4352-9fa6-fe14c99abd02)
 
 ![6](https://github.com/Shiny-lab/Millenium-RAT/assets/162065394/3d413800-6bf5-415c-b71a-e7fafcfaa0f9)
+
+
 
 
 ## ♦️DISCLAIMER: I AM NOT RESPONSIBLE FOR ANY ILEGAL USAGE OF THIS TOOL♦️
