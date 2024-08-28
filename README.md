@@ -16,7 +16,7 @@ A telegram-controlled Windows RAT (remote access tool), no dedicated server or p
 <br />
 <br />⭐️ Options :
 <br />🔶NEW: "/all" identifier is avaliable now, can be use to send the command to all the connected victims
-<br />🔶Keylogger
+<br />🔶Keylogger 
 <br />🔶Pronouncing text to user
 <br />🔶Messagebox invoking
 <br />🔶One-command desktop files grabbing
