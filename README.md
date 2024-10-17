@@ -15,7 +15,7 @@ A telegram-controlled Windows RAT (remote access tool), no dedicated server or p
 <br />🔹Self-installing/No self-installing
 <br />
 <br />⭐️ Options :
-<br />🔶NEW: powershell command execution, updates keylogger and more. you can se more details about the 2.11 update in [the Millenium telegram channel]([https://www.codecademy.com/pages/contribute-docs](https://t.me/milleniumrat))
+<br />🔶NEW: powershell command execution, updates keylogger and more. you can se more details about the 2.11 update in [the Millenium telegram channel]([https://www.codecademy.com/pages/contribute-docs](https://t.me/milleniumrat)
 <br />🔶Keylogger 
 <br />🔶Pronouncing text to user
 <br />🔶Messagebox invoking
