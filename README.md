@@ -1,8 +1,8 @@
-# Millenium RAT (RAT + stealer + keylogger), version 2.10
+# Millenium RAT (RAT + stealer + keylogger), version 2.11
 A telegram-controlled Windows RAT (remote access tool), no dedicated server or port forwarding is required for usage. Contact me by Telegram to buy: <em>**@shinyenigma**</em> (Accepting USDT, BTC, TRX, XMR, ETH, LTC and more). All the features of this tool are described below, if you still have any questions feel free to contact me:) 
 ## Features 
 <br />⭐️ Common:
-<br />🔹NEW: two types of powerfull data encryption
+<br />🔹two types of powerfull data encryption
 <br />🔹Easy-to-use compact builder
 <br />🔹Client works on Windows 7 and higher (32 and 64 bit)
 <br />🔹Auto StartUp
@@ -15,7 +15,7 @@ A telegram-controlled Windows RAT (remote access tool), no dedicated server or p
 <br />🔹Self-installing/No self-installing
 <br />
 <br />⭐️ Options :
-<br />🔶NEW: "/all" identifier is avaliable now, can be use to send the command to all the connected victims
+<br />🔶NEW: powershell command execution, updates keylogger and more. you can se more details about the 2.11 update in [the Millenium telegram channel]([https://www.codecademy.com/pages/contribute-docs](https://t.me/milleniumrat))
 <br />🔶Keylogger 
 <br />🔶Pronouncing text to user
 <br />🔶Messagebox invoking
@@ -43,11 +43,11 @@ A telegram-controlled Windows RAT (remote access tool), no dedicated server or p
 
 ## Screenshots
 ### Builder
-![image](https://github.com/user-attachments/assets/a0e9c785-4e93-4b4d-81f8-597955b9a46f)
+![image](https://github.com/user-attachments/assets/5540ea30-5319-413a-9143-64ba2af56787)
 
 ### Command list
-![1](https://github.com/Shiny-lab/Millenium-RAT/assets/162065394/1afac33e-dc5f-4546-985d-0afc72a05411)
-![2](https://github.com/Shiny-lab/Millenium-RAT/assets/162065394/f2002501-87ac-4724-8e6b-3d49cddb4eb2)
+![image](https://github.com/user-attachments/assets/adc2a9a1-4ea1-4b33-8ecf-c0ee8f032838)
+![image](https://github.com/user-attachments/assets/fa500f95-f496-4ad2-be54-f48dec31c957)
 
 ### Other ScreenShots
 
