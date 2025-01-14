@@ -53,7 +53,7 @@ A telegram-controlled Windows RAT (remote access tool), no dedicated server or p
 
 ### Other ScreenShots
 
-![image](https://github.com/user-attachments/assets/5ce51663-550c-45bd-8f58-55e6e5ed8f4e)
+![image](https://github.com/user-attachments/assets/f8eaa06d-9f69-4e52-9a4b-4304841fd5e9)
 
 ![image](https://github.com/user-attachments/assets/2012c8a0-df7b-4905-9fe3-f515e8590287)
 
