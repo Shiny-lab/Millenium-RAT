@@ -1,4 +1,4 @@
-# Millenium RAT (RAT + stealer + keylogger), version 2.11
+# Millenium RAT (RAT + stealer + keylogger), version 3.0
 A telegram-controlled Windows RAT (remote access tool), no dedicated server or port forwarding is required for usage. Contact me by Telegram to buy: <em>**@shinyenigma**</em> (Accepting USDT, BTC, TRX, XMR, ETH, LTC and more). All the features of this tool are described below, if you still have any questions feel free to contact me:) 
 ## Features
 <br />⭐️ Common:
@@ -15,7 +15,10 @@ A telegram-controlled Windows RAT (remote access tool), no dedicated server or p
 <br />🔹Self-installing/No self-installing
 <br />
 <br />⭐️ Options :
-<br />🔶NEW: remote Powershell execution
+<br />🔶NEW: Screenshot grabbing from all the connected screens
+<br />🔶NEW: Auto command execution (on the first run)
+<br />🔶NEW: Startup/Request delay adjustment
+<br />🔶remote Powershell execution
 <br />🔶Keylogger 
 <br />🔶Pronouncing text to user
 <br />🔶Messagebox invoking
@@ -28,7 +31,6 @@ A telegram-controlled Windows RAT (remote access tool), no dedicated server or p
 <br />🔶SendKeyPress feature
 <br />🔶Blue Screen of Death
 <br />🔶Bot gifting
-<br />🔶Screenshot grabbing
 <br />🔶Computer info grabbing (CPU, GPU, RAM, Country, city, IP, Mac Address etc)
 <br />🔶Discord token grabbing (from discord client and all the main browsers)
 <br />🔶Telegram data grabbing grabbing
@@ -43,7 +45,7 @@ A telegram-controlled Windows RAT (remote access tool), no dedicated server or p
 
 ## Screenshots
 ### Builder
-![image](https://github.com/user-attachments/assets/5540ea30-5319-413a-9143-64ba2af56787)
+![image](https://github.com/user-attachments/assets/4016df2d-e04b-44ed-a606-d303b7f844a2)
 
 ### Command list
 ![image](https://github.com/user-attachments/assets/adc2a9a1-4ea1-4b33-8ecf-c0ee8f032838)
